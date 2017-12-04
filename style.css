@@ -1,0 +1,12 @@
+h1{
+  font-size: 28px;
+}
+
+p{
+  font-size: 16px;
+}
+
+h1, p {
+  text-align: center;
+  font-family: "Trebuchet MS"
+}
