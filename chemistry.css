@@ -1,0 +1,33 @@
+.navbar{
+  position: absolute;
+  background-color: #333333;
+  width: 150px;
+}
+
+.navbar a{
+  display: block;
+  font-size: 22px;
+  font-family: "Trebuchet MS";
+  color: white;
+  text-decoration: none;
+  padding: 25px 5px 20px 5px;
+}
+
+.navbar a:hover{
+  background-color: #555555;
+}
+
+.navbar img{
+   max-width: 95%;
+   max-height: auto;
+   padding: 5px;
+}
+
+.content{
+  position: absolute;
+  left: 200px;
+}
+
+h1{
+  text-align: center;
+}
