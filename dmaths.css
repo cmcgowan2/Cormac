@@ -30,12 +30,12 @@
   padding-right: 5px;
 }
 
-h1, h2, p, table{
-  font-family: "Trebuchet MS";
-}
-
 h1{
   text-align: center;
+}
+
+h1, p, table{
+  font-family: "Trebuchet MS";
 }
 
 p, table{
@@ -43,7 +43,7 @@ p, table{
 }
 
 td, th{
-  width: 50%;
+  width: 16%;
   padding: 4px;
   border: 1px solid #333;
 }
